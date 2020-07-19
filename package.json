@@ -1,0 +1,21 @@
+{
+  "name": "apple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "delay": "^4.3.0",
+    "fetch-cookie": "^0.7.2",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "readline-sync": "^1.4.9",
+    "request": "^2.88.0"
+  }
+}
